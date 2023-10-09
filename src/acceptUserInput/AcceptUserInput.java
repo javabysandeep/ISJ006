@@ -1,16 +1,17 @@
+package acceptUserInput;
 
 import java.util.Scanner;
 
-public class AcceptUserInput5 {
+public class AcceptUserInput {
 
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.println("Enter two float values");
+		System.out.println("Enter two numbers");
 
-		float number1 = scanner.nextFloat() ;
-		float number2 = scanner.nextFloat() ;
+		int number1 = scanner.nextInt() ;
+		int number2 = scanner.nextInt() ;
 
 		System.out.println("Addition of two numbers is "+(number1+number2));
 

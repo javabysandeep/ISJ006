@@ -1,15 +1,16 @@
+package acceptUserInput;
 
 import java.util.Scanner;
 
-public class AcceptUserInput6 {
+public class AcceptUserInput7 {
 
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.println("Enter boolean value");
+		System.out.println("Enter String value");
 
-		boolean value = scanner.nextBoolean();
+		String value = scanner.next();
 		
 		System.out.println("Entered value is "+value);
 

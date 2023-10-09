@@ -1,3 +1,5 @@
+package _2_variables;
+
 public class TypeCasting {
 
 	public static void main(String[] args){

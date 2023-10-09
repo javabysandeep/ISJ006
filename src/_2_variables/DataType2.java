@@ -1,3 +1,5 @@
+package _2_variables;
+
 public class DataType2 {
 
 	public static void main(String[] args){

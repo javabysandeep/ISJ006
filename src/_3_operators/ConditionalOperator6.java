@@ -1,3 +1,5 @@
+package _3_operators;
+
 public class ConditionalOperator6 {
 
 	public static void main(String[] args){

@@ -1,17 +1,20 @@
+package acceptUserInput;
 
 import java.util.Scanner;
 
-public class AcceptUserInput9 {
+public class AcceptUserInput8 {
 
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.println("Enter character value");
+		System.out.println("Enter String value");
 
-		char value = scanner.next().charAt(0);
+		String value = scanner.nextLine();
 		
 		System.out.println("Entered value is "+value);
+
+
 
 	}
 
