@@ -1,16 +1,16 @@
-package _4_controlStatements;
+package _4_controlStatements.looping.forLoop;
 
 import java.util.Scanner;
 
-public class IfDemo2 {
+public class Demo17Factors {
     public static void main(String[] args) {
         System.out.println("Enter the number");
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
-        if (number % 2 == 0) {
-            System.out.println(number + " is even number ");
-        } else {
-            System.out.println(number + " is odd number ");
+        for (int i = 1; i <= number / 2; i++) {
+            if (number % i == 0) {
+                System.out.println(i);
+            }
         }
     }
 }

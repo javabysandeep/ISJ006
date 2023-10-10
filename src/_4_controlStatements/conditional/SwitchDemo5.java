@@ -1,13 +1,12 @@
-package _4_controlStatements;
+package _4_controlStatements.conditional;
 
 import java.util.Scanner;
 
-public class SwitchDemo3 {
+public class SwitchDemo5 {
     public static void main(String[] args) {
         System.out.println("Enter the digit");
         Scanner scanner = new Scanner(System.in);
-        char digit = scanner.next().charAt(0);
-        String str = scanner.next();
+        int digit = scanner.nextInt();
         //value : byte, short, int, char, String, enum, Byte, Short, Integer,Character
         switch (digit) {
             case '0':
@@ -43,7 +42,6 @@ public class SwitchDemo3 {
             default:
                 System.out.println("Invalid digit");
                 break;
-
         }
     }
 }
