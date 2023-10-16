@@ -119,3 +119,15 @@ n
 >src/_4_controlStatements/looping/forLoop/Demo18FactorsSum.java,6\2\62cf6cd9a573b9fa1d78ff4add494436888d890d
 m
 =src/_4_controlStatements/looping/forLoop/Demo19Factorial.java,d\8\d8ba8c3efc025a6e196a2bddc85db1b0b7e1036b
+m
+=src/_4_controlStatements/looping/forLoop/Demo20Factorial.java,a\c\ac4d055f25d722a0d9fa8b346bd0204b438e61f5
+o
+?src/_4_controlStatements/looping/forLoop/Demo21PrimeNumber.java,4\6\4610354f54ef126a87fab4294509554e458c1609
+o
+?src/_4_controlStatements/looping/forLoop/Demo22PrimeNumber.java,4\5\452cf2330ff3a10b3172fcd3097a87631f6a52cf
+k
+;src/_4_controlStatements/looping/forLoop/Demo23Pattern.java,f\a\fa36deac36ec9f9f848d87de8ef3445d49104857
+k
+;src/_4_controlStatements/looping/forLoop/Demo24Pattern.java,d\7\d7c26d03813e4c8d88c73d7c6ecabf17fb308056
+k
+;src/_4_controlStatements/looping/forLoop/Demo25Pattern.java,d\a\daa0b6140b3897715ed14117d5a07c6fa024323b
