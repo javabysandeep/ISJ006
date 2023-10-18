@@ -10,6 +10,6 @@ public class Demo6 {
         //0 5
         //0 5
         //0 5
-        //...........
+        //...........infinite loop
     }
 }
