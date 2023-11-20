@@ -233,3 +233,15 @@ s
 Csrc/_4_controlStatements/looping/forLoop/pattern/StringReverse.java,5\f\5f755078e93701baf844393f9b11e210a1209e10
 K
 src/_6_oops/HelloWorld.java,b\2\b2bcb7adb1f0c47fe57d8d7e4911b3c911862c29
+h
+8src/_5_classComponents/variables/Demo1LocalVariable.java,2\d\2d3e908a50923b5900f468c7190cb15ebed4eb8c
+i
+9src/_5_classComponents/variables/Demo2ClassVariables.java,8\7\87224e31dba10d492abddafd72a8c795728d0079
+a
+1src/_5_classComponents/variables/BankAccount.java,d\d\ddca939d27825fee7164fb6c55c4212499cac318
+]
+-src/_5_classComponents/variables/Product.java,2\5\2509dcabb641998eb3534f8a5c0700438b41eeea
+i
+9src/_5_classComponents/variables/Demo3ClassVariables.java,f\1\f177eb2cad7cc15b47187ba13a2c5071fcdc7829
+]
+-src/_5_classComponents/variables/Student.java,7\9\79b9a6465ab59b13d3f05c6644f5481398a0d5b2
