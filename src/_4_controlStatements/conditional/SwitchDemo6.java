@@ -9,7 +9,7 @@ public class SwitchDemo6 {
         int digit = scanner.nextInt();
         //value : byte, short, int, char, String, enum, Byte, Short, Integer,Character
         switch (digit) {
-            case 0 -> System.out.println("zero");
+        /*    case 0 -> System.out.println("zero");
             case 1 -> System.out.println("One");
             case 2 -> System.out.println("Two");
             case 3 -> System.out.println("Three");
@@ -19,7 +19,7 @@ public class SwitchDemo6 {
             case 7 -> System.out.println("Seven");
             case 8 -> System.out.println("Eight");
             case 9 -> System.out.println("Nine");
-            default -> System.out.println("Invalid digit");
+            default -> System.out.println("Invalid digit");*/
         }
     }
 }
