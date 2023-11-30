@@ -2,9 +2,11 @@ package _5_classComponents.nestedClasses;
 
 public class Demo4 {
     public static void main(String[] args) {
-       display();
+        //System.out.println(10 != true);
+        display();
     }
-    static void display(){
+
+    static void display() {
         //1. define local inner class
         class Local {
             // only non-static members
