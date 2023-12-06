@@ -231,8 +231,6 @@ u
 Esrc/_4_controlStatements/looping/forLoop/pattern/StringDuplicate.java,e\e\ee4bb73f19667b819709bc7c27e564e39cd0e227
 s
 Csrc/_4_controlStatements/looping/forLoop/pattern/StringReverse.java,5\f\5f755078e93701baf844393f9b11e210a1209e10
-K
-src/_6_oops/HelloWorld.java,b\2\b2bcb7adb1f0c47fe57d8d7e4911b3c911862c29
 h
 8src/_5_classComponents/variables/Demo1LocalVariable.java,2\d\2d3e908a50923b5900f468c7190cb15ebed4eb8c
 i
@@ -363,3 +361,23 @@ M
 src/interviewPrep/Demo22.java,e\1\e18f0082b42fa7f3d86d6ae07668194167d294d3
 M
 src/interviewPrep/Demo23.java,4\1\413cb3222b50a3592352762a67461a3b1abb6a29
+V
+&src/_6_oops/accessSpecifiers/p1/A.java,e\e\ee48c54cfd34573d0e79a8a431d9a22b034e3e09
+V
+&src/_6_oops/accessSpecifiers/p1/B.java,8\5\85658f8ebcb324794de227e7f0b691cab7567ebd
+V
+&src/_6_oops/accessSpecifiers/p2/B.java,9\4\9418971962b869416765e91ff833263c4700c8b9
+_
+/src/_6_oops/accessSpecifiers/p1/CourseTest.java,d\d\dd46dfb23ff16e4fff0a13c3d751c7845919356a
+[
++src/_6_oops/accessSpecifiers/p1/Course.java,3\c\3c0ace227dd86b8762db3fb1c987df17f50d9dc2
+]
+-src/_6_oops/accessSpecifiers/ProductTest.java,e\a\ea1021aa5e4a03868e1f335322c092e125af5801
+Y
+)src/_6_oops/accessSpecifiers/Product.java,e\7\e7f20e68aeebbe9730295184b10d868b0d740432
+X
+(src/_6_oops/accessSpecifiers/Person.java,2\9\29c741d055a85f7e0c03e9d93413127c3381745b
+\
+,src/_6_oops/accessSpecifiers/PersonTest.java,6\6\663dd900ebe31e7be9c1e89f30b346d620537312
+Z
+*src/_6_oops/accessSpecifiers/Employee.java,9\e\9eb7d17131fec25a17671c47203a2c4ce1824d60
