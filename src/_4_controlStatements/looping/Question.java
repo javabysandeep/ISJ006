@@ -9,6 +9,27 @@ public class Question {
             System.out.println();
         }
     }
+
+    public static class Demo1 {
+        public static void main(String[] args) {
+            int count = 1;
+            for (int row = 1; row <= 5; row = row + 2) {
+                for (int space = 5 - row; space > 0; space--) {
+                    System.out.print(" ");
+                }
+
+                for (int star = 1; star <= row; star++) {
+                    if (count == star) {
+                        System.out.print(count+" ");
+                    } else {
+                        System.out.print("* ");
+                    }
+                }
+                count++;
+                System.out.println();
+            }
+        }
+    }
 }
 /*
 * 0
