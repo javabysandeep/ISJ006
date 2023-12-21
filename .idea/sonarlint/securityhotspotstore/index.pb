@@ -469,3 +469,23 @@ G
 src/_7_array/Demo4.java,8\c\8c2cbac56c5b523c61e8a43ede3dcbbed7d181ab
 G
 src/_7_array/Demo5.java,0\c\0c45fcb2551163e3baec8d696292310fac706be1
+G
+src/_7_array/Demo6.java,1\6\16a6afa9ee759f96e7b6a985d516f649d0ad68e8
+G
+src/_7_array/Demo7.java,2\4\2435a32ffac06087d266e5d7e0eeeb1df9caee8d
+P
+ src/_7_array/Demo8Retrieval.java,5\9\592e3bfa136a2fb9bf17b0caa2c61c3bb63b0d6b
+Y
+)src/_7_array/Demo9SumOfArrayElements.java,1\5\1570867b0927f7253c18354d9e312854eb4a67d4
+Y
+)src/_7_array/Demo10SumOfEvenElements.java,a\2\a2cc8d70b50f16a04c3dedcb4a27b5a23895992d
+T
+$src/_7_array/Demo11LinearSearch.java,5\5\55cfaae85c2afb00a503557194776229eae17a1e
+O
+src/_7_array/Demo12Maximum.java,e\3\e3a85b255d3b7e67a826b8d18a577422dacb2302
+O
+src/_7_array/Demo13Minimum.java,8\7\873696c6a52f0e0490901abbc08b94a1d33798e7
+Q
+!src/_7_array/Demo14SecondMax.java,0\8\087fa3f66d2e3708170a0f91d768e84a26007168
+T
+$src/_7_array/Demo15ReverseArray.java,a\6\a623045b04f447ab47b65f3eddda6762b8cefa0e
