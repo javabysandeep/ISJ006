@@ -1,0 +1,1 @@
+File Writer is used to write strings to the file. We are appending to the file. Writing using BufferedWriter

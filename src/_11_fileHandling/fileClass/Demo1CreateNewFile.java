@@ -1,4 +1,4 @@
-package _11_fileHandling;
+package _11_fileHandling.fileClass;
 
 import java.io.File;
 import java.io.IOException;

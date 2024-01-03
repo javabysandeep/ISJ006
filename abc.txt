@@ -1,1 +1,2 @@
-good evening!!!
+File handling is used to create, update, delete, rename files
+using file handling, we can read, write to file
