@@ -1,8 +1,11 @@
 package _8_exceptionHandling;
 
+import java.util.Random;
+
 public class Demo4 {
     public static void main(String[] args) {
-        System.out.println(10 / 0);
-        System.out.printf("rest of the main method");
+        Random rand = new Random();
+        int otp =  rand.nextInt(9999);
+        System.out.print("otp is " + otp);
     }
 }
