@@ -1,4 +1,4 @@
-package _10_collectionFramework;
+package _10_collectionFramework.list;
 
 import java.util.ArrayList;
 import java.util.Collections;

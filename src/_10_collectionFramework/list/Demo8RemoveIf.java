@@ -1,24 +1,24 @@
-package _10_collectionFramework;
+package _10_collectionFramework.list;
 
 import java.util.ArrayList;
+import java.util.function.Predicate;
 
-public class Demo5Clear {
+public class Demo8RemoveIf {
     public static void main(String[] args) {
         ArrayList arrayList1 = new ArrayList<>();
-        arrayList1.add(100);
+        arrayList1.add(10);
         arrayList1.add(200);
         arrayList1.add(300);
+        arrayList1.add(33);
+        arrayList1.add(30);
         arrayList1.add(0, 400);
-        arrayList1.add(null);
-        arrayList1.add(null);
-        arrayList1.add(null);
-        arrayList1.add(true);
-        arrayList1.add("this is string data");
+
         System.out.println("before removal operation");
         System.out.println(arrayList1);
 
-        //remove all elements
-        arrayList1.clear();
+        //remove elements based on condition
+        Predicate<Integer> predicate = (number) -> number > 100;
+        arrayList1.removeIf(predicate);
         System.out.println("after removal operation");
         System.out.println(arrayList1);
 

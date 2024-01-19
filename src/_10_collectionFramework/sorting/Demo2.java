@@ -1,19 +1,23 @@
-package _10_collectionFramework;
+package _10_collectionFramework.sorting;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Demo11Sorting {
+public class Demo2 {
     public static void main(String[] args) {
-        ArrayList<String> list = new ArrayList();
-        list.add("Adnan");
-        list.add("Akshay");
-        list.add("Onkar");
-        list.add("Swapnil");
+        ArrayList<String> list = new ArrayList<>();
+        list.add("Rahul");
         list.add("Rohit");
+        list.add("Swapnil");
+        list.add("Onkar");
+        list.add("Akshay");
+        list.add("Adnan");
         list.add("Roshni");
         list.add("Dipika");
+
         Collections.sort(list);
+
         list.forEach(System.out::println);
+
     }
 }

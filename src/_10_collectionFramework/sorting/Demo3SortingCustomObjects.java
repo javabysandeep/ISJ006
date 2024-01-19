@@ -1,11 +1,12 @@
-package _10_collectionFramework;
+package _10_collectionFramework.sorting;
+
 
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Demo13CustomList {
+public class Demo3SortingCustomObjects {
     public static void main(String[] args) {
-        Employee employee1 = new Employee(1, "Adnan", 90000);
+        Employee employee1 = new Employee(1,"Abc",100);
         Employee employee2 = new Employee(11, "Swapnil", 8700);
         Employee employee3 = new Employee(2, "Rohit", 12345);
         Employee employee4 = new Employee(22, "Onkar", 12000);

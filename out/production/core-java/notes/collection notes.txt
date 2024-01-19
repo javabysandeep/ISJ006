@@ -95,17 +95,12 @@ Operations on ArrayList?
 Comparable<I>
 - it is an interface which contains a method
     - int compareTo(Object o);
-- using Comparable,we can perform single field sorting.
-- we cannot perform multiple field sorting.
-- we have to make changes in existing class.
 
 
 - Collections.sort() accepts a list of elements which are of type Comparable
 - In order to perform sorting, internally, sort() method calls compareTo() method
 
 
-# Comparator(I)
-    - compare(obj1, obj2)
 
 
 

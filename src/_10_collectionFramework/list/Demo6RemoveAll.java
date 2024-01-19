@@ -1,8 +1,8 @@
-package _10_collectionFramework;
+package _10_collectionFramework.list;
 
 import java.util.ArrayList;
 
-public class Demo7RetainAll {
+public class Demo6RemoveAll {
     public static void main(String[] args) {
         ArrayList arrayList1 = new ArrayList<>();
         arrayList1.add(100);
@@ -24,7 +24,7 @@ public class Demo7RetainAll {
         System.out.println(arrayList1);
 
         //remove all elements
-        arrayList1.retainAll(removalList);
+        arrayList1.removeAll(removalList);
         System.out.println("after removal operation");
         System.out.println(arrayList1);
 
