@@ -1,4 +1,4 @@
-package _10_collectionFramework;
+package _10_collectionFramework.listImpl;
 
 public class DynamicArray {
     Object[] array;
