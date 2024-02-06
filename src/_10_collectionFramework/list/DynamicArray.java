@@ -1,4 +1,8 @@
+<<<<<<<< HEAD:src/_10_collectionFramework/listImpl/DynamicArray.java
 package _10_collectionFramework.listImpl;
+========
+package _10_collectionFramework.list;
+>>>>>>>> 93ef722a3444e7b54d0413ca0851d6446f70f292:src/_10_collectionFramework/list/DynamicArray.java
 
 public class DynamicArray {
     Object[] array;
