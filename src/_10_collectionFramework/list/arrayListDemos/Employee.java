@@ -1,4 +1,4 @@
-package _10_collectionFramework.list;
+package _10_collectionFramework.list.arrayListDemos;
 
 public class Employee implements Comparable<Employee> {
     private int employeeId;

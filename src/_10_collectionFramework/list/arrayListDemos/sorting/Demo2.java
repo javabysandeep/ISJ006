@@ -1,4 +1,4 @@
-package _10_collectionFramework.sorting;
+package _10_collectionFramework.list.sorting;
 
 import java.util.ArrayList;
 import java.util.Collections;
