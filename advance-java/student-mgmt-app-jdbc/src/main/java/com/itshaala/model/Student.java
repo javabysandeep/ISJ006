@@ -1,4 +1,4 @@
-package model;
+package com.itshaala.model;
 
 import lombok.*;
 

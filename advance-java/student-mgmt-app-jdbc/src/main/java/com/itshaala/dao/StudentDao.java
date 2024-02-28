@@ -1,7 +1,7 @@
-package dao;
+package com.itshaala.dao;
 
+import com.itshaala.model.Student;
 import com.itshaala.util.ConnectionUtil;
-import model.Student;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -64,7 +64,7 @@ public class StudentDao {
     }
 
     public Student getStudentById(int id) {
-        String query = "select * from isj006_advance.student where id=?";
+        String query = "select * from isj006_advance.student where id=? limit 1";
         Connection connection = ConnectionUtil.getConnection();
         Student student = new Student();
         try {

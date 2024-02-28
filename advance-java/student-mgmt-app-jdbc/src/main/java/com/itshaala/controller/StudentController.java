@@ -1,7 +1,7 @@
-package controller;
+package com.itshaala.controller;
 
-import model.Student;
-import service.StudentService;
+import com.itshaala.model.Student;
+import com.itshaala.service.StudentService;
 
 import java.util.List;
 

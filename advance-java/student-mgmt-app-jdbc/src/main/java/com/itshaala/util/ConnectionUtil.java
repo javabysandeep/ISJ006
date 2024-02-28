@@ -1,19 +1,20 @@
 package com.itshaala.util;
 
-import constants.MySqlConstants;
 import lombok.Getter;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-import static constants.MySqlConstants.*;
+import static com.itshaala.constants.MySqlConstants.*;
 
 
 public class ConnectionUtil {
 
     @Getter
     private static Connection connection;
+
+
 
     static {
         try {

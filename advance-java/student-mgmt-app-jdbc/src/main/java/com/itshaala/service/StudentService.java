@@ -1,7 +1,7 @@
-package service;
+package com.itshaala.service;
 
-import dao.StudentDao;
-import model.Student;
+import com.itshaala.model.Student;
+import com.itshaala.dao.StudentDao;
 
 import java.util.List;
 
