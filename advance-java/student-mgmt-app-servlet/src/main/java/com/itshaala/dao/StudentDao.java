@@ -16,7 +16,8 @@ public class StudentDao {
     @SneakyThrows
     public void addStudent(Student student) {
         Connection connection = ConnectionUtil.getConnection();
-        String query = "insert into student(id, name, email, phone, address) values(?,?,?,?,?)";
+        String query = "insert into student(id, name, email, phone, address) " +
+                "values(?,?,?,?,?)";
         PreparedStatement preparedStatement = connection.prepareStatement(query);
         preparedStatement.setInt(1, student.getStudentId());
         preparedStatement.setString(2, student.getStudentName());
