@@ -35,4 +35,10 @@ public class StudentService {
     public Student getStudentById(int id) {
         return studentDao.findById(id).get();
     }
+
+    public List<Student> findStudentsByName(String str) {
+        return studentDao.findStudentByNameContaining(str);
+    }public List<Student> findStudentByNameContainingOrAddressContaining(String name, String address) {
+        return studentDao.findStudentByNameContainingOrAddressContaining(name,address);
+    }
 }

@@ -50,4 +50,14 @@ public class StudentController {
         System.out.println(student);
         return student;
     }
+
+    @GetMapping("/students/filter/{name}")
+    public List<Student> getStudentByName(@PathVariable("name") String name) {
+        return studentService.findStudentsByName(name);
+    }
+
+    @GetMapping("/students/filter/address")
+    public List<Student> getStudentByNameAndAddress(@RequestParam("name") String name, @RequestParam("address") String address) {
+        return studentService.findStudentByNameContainingOrAddressContaining(name, address);
+    }
 }
